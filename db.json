@@ -1,18 +1,46 @@
 {
   "dogs": [
     {
-      "id": 1,
+      "id": "Fri Apr 21 2023 13:34:13 GMT+0530 (India Standard Time)nanu",
+      "name": "nanu",
+      "age": 12,
+      "place": "dubai",
+      "gender": "Male"
+      },
+      {
+      "id": "Fri Apr 21 2023 13:41:15 GMT+0530 (India Standard Time)Cherry",
       "name": "Cherry",
-      "age": 2,
+      "age":2,
       "place": "Visakhapatnam",
       "gender": "Male"
-    },
-    {
-      "id": 1,
+      },
+      {
+      "id": "Fri Apr 21 2023 13:41:38 GMT+0530 (India Standard Time)Tommy",
       "name": "Tommy",
-      "age": 3,
+      "age":4,
       "place": "Banglore",
       "gender": "Female"
-    }
+      },
+      {
+      "id": "Fri Apr 21 2023 13:42:06 GMT+0530 (India Standard Time)John",
+      "name": "John",
+      "age":5,
+      "place": "pandurli",
+      "gender": "Male"
+      },
+      {
+      "id": "Fri Apr 21 2023 13:42:25 GMT+0530 (India Standard Time)Babali",
+      "name": "Babali",
+      "age":10,
+      "place": "Dihli",
+      "gender": "Female"
+      },
+      {
+      "id": "Fri Apr 21 2023 13:42:44 GMT+0530 (India Standard Time)Misti",
+      "name": "Misti",
+      "age": 8,
+      "place": "kolkata",
+      "gender": "Female"
+      }
   ]
 }
